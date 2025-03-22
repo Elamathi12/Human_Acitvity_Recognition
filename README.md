@@ -1,1 +1,1 @@
-# Smartan_fitTech_Assignment
+# Human Activity Recognition Using Deep Learning and RAG
